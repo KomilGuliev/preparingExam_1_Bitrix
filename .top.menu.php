@@ -1,0 +1,67 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Главная", 
+		"/", 
+		Array(), 
+		Array("main_class"=>"main-page", "color"=>""), 
+		"" 
+	),
+	Array(
+		"Компания", 
+		"company/", 
+		Array(), 
+		Array("color"=>"red"), 
+		"" 
+	),
+	Array(
+		"Новости", 
+		"news/", 
+		Array(), 
+		Array("color"=>""), 
+		"" 
+	),
+	Array(
+		"Каталог", 
+		"products/", 
+		Array(), 
+		Array("color"=>"yellow"), 
+		"" 
+	),
+	Array(
+		"Услуги", 
+		"services/", 
+		Array(), 
+		Array("color"=>""), 
+		"" 
+	),
+	Array(
+		"Партнерам", 
+		"/partners/", 
+		Array(), 
+		Array("color"=>""), 
+		"" 
+	),
+	Array(
+		"Отзывы", 
+		"/rew/", 
+		Array(), 
+		Array("color"=>""), 
+		"" 
+	),
+	Array(
+		"Поиск", 
+		"/search/", 
+		Array(), 
+		Array("color"=>""), 
+		"" 
+	),
+	Array(
+		"Опросы", 
+		"/ask/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
